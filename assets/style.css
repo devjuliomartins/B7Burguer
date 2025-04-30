@@ -107,7 +107,7 @@ header .menu-icon div {
 }
 
 .hero .leftside,
-.hero .righside {
+.hero .rightside {
     flex: 1;
 }
 
@@ -115,11 +115,11 @@ header .menu-icon div {
     padding-bottom: 150px;
 }
 
-.hero .righside {
+.hero .rightside {
     text-align: center;
 }
 
-.hero .righside img {
+.hero .rightside img {
     width: auto;
     height: 600px;
 }
@@ -169,11 +169,11 @@ header .menu-icon div {
         padding-bottom: 40px;
     }
 
-    .hero .righside {
+    .hero .rightside {
         padding-bottom: 50px;
     }
 
-    .hero .righside img {
+    .hero .rightside img {
         height: 300px;
     }
 
