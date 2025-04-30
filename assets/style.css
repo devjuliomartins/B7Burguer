@@ -159,4 +159,26 @@ header .menu-icon div {
     header .menuMobile {
         display: flex;
     }
+
+    .hero .container {
+        flex-direction: column;
+    }
+
+    .hero .leftside {
+        text-align: center;
+        padding-bottom: 40px;
+    }
+
+    .hero .righside {
+        padding-bottom: 50px;
+    }
+
+    .hero .righside img {
+        height: 300px;
+    }
+
+    .hero h1 {
+        font-size: 44px;
+        line-height: 50px;
+    }
 } 
